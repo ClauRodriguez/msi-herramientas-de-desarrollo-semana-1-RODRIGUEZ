@@ -1,3 +1,4 @@
 RODRIGUEZ CLAUDIO
 
-Nueva seccion  ## Sobre Mí
+## Sobre Mí
+## Habilidades Tecnicas
